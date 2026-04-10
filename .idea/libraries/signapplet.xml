@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="signapplet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/login/DigitalCertificate/signapplet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
