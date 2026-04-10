@@ -1,0 +1,1 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>${AjaxMessage}*${AjaxMessage1}<c:if test="${not empty AjaxMessage2 && AjaxMessage2 ne ' ' && AjaxMessage2 ne ''}">*${AjaxMessage2}</c:if>
